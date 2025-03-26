@@ -3,7 +3,10 @@ import "./App.css";
 import React from "react";
 
 let service = [
-  {name: " web-development", discription: "We are providing full-Stack Web-development service"}
+  {name: " Web-development", discription: "We are providing full-Stack Web-development service"},
+  {name: "Front-end web-development", discription: "Styling for your we page"},
+  {name: "Web-designing", discription: "Professional we-designing"}
+
 ];
 
  function App () {
