@@ -13,5 +13,4 @@ If you are developing a production application, we recommend using TypeScript an
 
 
 ## DEPLOYMENT LINK 
--> wonderful-taiyaki-b69774.netlify.app
-
+-> https://ubiquitous-biscuit-367b8b.netlify.app/
